@@ -15,11 +15,3 @@ Now clone this repository to your own device. Click the Clone or download button
 Open a terminal and run the following Git command:
 
     $ git clone https://github.com/dasom222g/carrot-clone.git
-
-Getting start
-
-    $ yarn or yarn install
-
-## Start working
-
-    $ yarn start
